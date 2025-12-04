@@ -89,17 +89,6 @@ Este relatório consolida os dados de atuação de André Cogini em regime de so
 
 ---
 
-## 📁 Origem dos Chamados (2023)
-
-| Origem    | Qtde | Tempo Total     |
-|-----------|------|------------------|
-| PRTG      | 53   | 27h59min         |
-| GoTo      | 13   | 3h34min          |
-| Teams     | 4    | 5h21min          |
-| WhatsApp  | 2    | 1h55min          |
-
----
-
 ## 📌 Interpretação dos Resultados
 
 - André manteve uma **participação consistente** nos atendimentos em regime de sobreaviso nos dois anos, com destaque para os meses de **dezembro de 2023** e **março de 2024**.
